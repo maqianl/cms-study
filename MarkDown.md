@@ -27,7 +27,8 @@ e.	可以在线编辑，建立自己的仓库
 5.**通过github年度报告让你记忆最深刻的信息有哪些**   
 PR种最流行的语言是JavaScript.
 
-6.**github上有可以个人账号**        还可以有（工作）账号
+6.**github上有可以个人账号**        还可以有（工作）账号   
+
 7.**github上面的两个组成要素是什么**
 
 个人主页和dashboard 
@@ -65,7 +66,8 @@ dashboard and 个人主页
 打开想要删除的仓库，点settings,最下面有danger区域，点delete this repository,点开，输入想要删除的仓库的名字，然后确定。   
 4.**Bash是什么操作系统的命令** Linux  
 5.**Pwd是什么命令** 打印当前工作目录  
-6.**Cd是什么命令** 更改目录  
+6.**Cd是什么命令** 更改目录     
+
 7.**Echo是什么命令** 打印输出  
 8.**配置git用户名的命令** git config --global user.name "yonghuming"  
 9.**配置邮箱的命令** git config --global user.email "邮箱"  
